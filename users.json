@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "shravan kumar vishwakarma",
+      "mobile": "",
+      "email": "shravanvishwakarma5@gmail.com",
+      "password": "qdesv12342ds",
+      "id": 1
+    },
+    {
+      "name": "asddd",
+      "mobile": "",
+      "email": "sdasd",
+      "password": "dasdasd",
+      "id": 2
+    }
+  ]
+}
